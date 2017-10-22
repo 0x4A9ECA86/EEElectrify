@@ -1,1 +1,5 @@
+This project aims to achieve a more effective and efficient rescue and relief operations during times of disaster. During these times, mobile cellular connectivity and internet is often unavailable because of damaged cellular base stations and signal interruptions. By utilizing Wi-Fi hotspots through its interconnection, rescuers can locate victims of disaster using mobile phones and/or Wi-Fi modems especially in areas where there’s no cellular data connection.
+
+The application is very user-friendly and designed with simplicity for the use of local community members. Enabling one’s hotspot and tapping location on the map and then clicking set location will let other users know your location. As the other users gain information of your location, this location information is now transmitted when they also use their mobile hotspots; eventually creating interconnection gathered location information of different users until they reach rescuers.
+
 Furthermore, the full implementation of DICT’s “Free Wi-Fi Internet Access in Public Places” will boost the effectiveness of this project since it will provide Wi-Fi availability to many public areas.
