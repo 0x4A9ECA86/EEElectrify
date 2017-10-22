@@ -1,0 +1,1 @@
+Furthermore, the full implementation of DICT’s “Free Wi-Fi Internet Access in Public Places” will boost the effectiveness of this project since it will provide Wi-Fi availability to many public areas.
